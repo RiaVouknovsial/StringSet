@@ -20,6 +20,6 @@ Console.WriteLine();
 
 Console.WriteLine("Пересечение строк: ");
 StringSet s4 = s1 & s2;
-Console.WriteLine(s3.Value);
+Console.WriteLine(s3.Value); 
 
 
